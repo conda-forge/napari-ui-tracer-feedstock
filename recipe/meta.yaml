@@ -1,5 +1,5 @@
 {% set name = "napari-ui-tracer" %}
-{% set version = "0.1.1" %}
+{% set version = "0.1.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/napari-ui-tracer-{{ version }}.tar.gz
-  sha256: 305b00918c63eb93cf105089e77a186568e0a65c529beb414d140ef525b2a2b4
+  sha256: 067ae1d03c6609499272b9014a379f9700df979f448e86015046746e6f443fd1
 
 build:
   noarch: python
