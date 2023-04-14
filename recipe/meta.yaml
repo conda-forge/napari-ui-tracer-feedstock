@@ -36,6 +36,7 @@ test:
 about:
   home: https://github.com/dalthviz/napari-ui-tracer
   summary: A plugin to help understand Napari UI components and check their source code definition
+  description: A plugin to help understand Napari UI components and locate their code definition
   license: MIT
   license_file: LICENSE
 
