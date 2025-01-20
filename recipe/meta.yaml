@@ -33,6 +33,7 @@ test:
     - pip
     - napari
     - pyqt
+    - numpy <2
     - python {{ python_min }}
 
 about:
