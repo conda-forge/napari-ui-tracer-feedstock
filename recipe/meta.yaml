@@ -32,6 +32,7 @@ test:
   requires:
     - pip
     - napari
+    - pyqt
     - python {{ python_min }}
 
 about:
